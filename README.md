@@ -23,8 +23,14 @@ then DAX is performed;
 
 ## Data Visualization
 
-Creating visualizations using Bar chart, Column chart, Pie chart, line chart, table, ect...
-create cards to display key metrics like total sale, total profit, average sales, total order, etc..
-Insert a Map to pinpoint customer locations
+Creating visualizations using Bar chart, Column chart, Pie chart, line chart ect... to analyse sales over region,country,market.
+
+Insert cards to display key metrics like total sale, total profit, average sales, total order, etc..
+
+Insert a Map to pinpoint customer locations 
+
 insert slicers and tables for all the visualizations.
+
 Making these visualizations and creating an interactive sales report
+
+These visualizations collectively provide a comprehensive analysis of sales performance, regional trends, product categories, shipping dynamics, and individual contributions.
