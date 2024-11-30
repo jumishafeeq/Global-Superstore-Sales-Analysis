@@ -23,12 +23,19 @@ then DAX is performed;
 
 ## Data Visualization
 
-Creating visualizations using Bar chart, Column chart, Pie chart, line chart ect... to analyse sales over region,country,market.
+Created visualizations to provide an analysis of sales overview, regional trends, product caregories, shipping mode, sales-team performenses.
 
-Insert cards to display key metrics like total sale, total profit, average sales, total order, etc..
+Create cards to display Total sales, Total profit, Average sales, Order details to provide quick summary.
 
-Insert a Map to pinpoint customer locations 
+Created bar charts to compare values across categories, eg:Regions, Markets, Products, Categories.
 
-insert slicers and tables for all the visualizations.
+Created Line charts to visualise changes in sales and profit across years.
 
-These visualizations collectively provide a comprehensive analysis of sales performance, regional trends, product categories, shipping dynamics, and individual contributions.
+Created Stacked bar chart to compare categories within a total product sold
+
+Created Scatter plot to analyze the relationship between sales and profit
+
+Created Maps to show the distribution of sales by order and created tables to present detailed data in a structured format.
+
+Created Pie chart and Donut chart to show shipping mode distribution and sales by order priority.
+
