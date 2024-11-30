@@ -31,6 +31,4 @@ Insert a Map to pinpoint customer locations
 
 insert slicers and tables for all the visualizations.
 
-Making these visualizations and creating an interactive sales report
-
 These visualizations collectively provide a comprehensive analysis of sales performance, regional trends, product categories, shipping dynamics, and individual contributions.
