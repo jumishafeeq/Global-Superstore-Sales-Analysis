@@ -2,7 +2,7 @@
 
  ## Data Transformation
 
- Basic Data Cleaning performed to the dataset of a store
+ Basic Data Cleaning performed to the dataset of a store, which has branches all over the world.
  
   - Removing Duplicates
   - Removing Blank rows
@@ -39,3 +39,10 @@ Created Maps to show the distribution of sales by order and created tables to pr
 
 Created Pie chart and Donut chart to show shipping mode distribution and sales by order priority.
 
+## Sales Report Overview
+
+The visualization report provides an overview of the sales and profit performance of the "Global Superstore" dataset. These visualizations provide a clear picture of the business performance, helping identify strengths (e.g., strong sales in Technology, Standard Class shipping efficiency) and areas for improvement (e.g., profitability in Furniture, returns management).
+
+The "Global Superstore" report highlights a total sales of $9.48M and a profit of $1.09M, with Technology as the leading category, contributing 39.5% of revenue. APAC emerges as the top-performing market ($2.7M), followed by Europe and the US. Sales trends show peaks in February, June, and December, reflecting seasonal demand.
+
+Shipping is dominated by Standard Class (59.81%), while returns (5%) suggest quality or satisfaction issues. Office Supplies lead in quantity but lag in revenue, indicating low-margin products. Key performers like Anna Andreadi drive sales, but opportunities exist to upskill others and expand into underperforming regions like Africa and LATAM.
