@@ -1,4 +1,3 @@
-# Power-BI Assignment-1
 
  ## Data Transformation
 
@@ -9,8 +8,6 @@
   - Use First row as headers
   - Removing Column
   - Creating new Columns
-
-# Power-BI Assignment-2
 
  ## Measure and Calculated Columns(DAX)
 
